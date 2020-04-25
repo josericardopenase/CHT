@@ -20,8 +20,11 @@ public class productos_taller : productos
 
       public virtual void Construccion()
        {
-        Debug.Log("Lo he construido");
+            
        }
 
 
 }
+
+
+

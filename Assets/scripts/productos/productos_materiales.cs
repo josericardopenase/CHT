@@ -18,6 +18,8 @@ public class productos_materiales : productos
     public categoria_material categoria;
 
     public int usos;
+
+    
 }
 public enum categoria_material{
 

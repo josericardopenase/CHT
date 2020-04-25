@@ -22,7 +22,7 @@ public class inventory_manager: MonoBehaviour
 
     //Desarrollar singleton para el Inventario (basandose en el game_manager) tarea: NICO.
     #region singleton
-
+        
     #endregion
 
     public void añadir_item(productos producto)
